@@ -6,7 +6,7 @@ table#tlayout {
     background: white;
 }
 html {
-    font-size: clamp(16px, 5vw, 80px);
+    font-size: clamp(16px, 1vw, 80px);
 }
 
 p {
